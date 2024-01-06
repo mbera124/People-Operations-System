@@ -30,6 +30,9 @@ jobs:
           destination: ./docs
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+        with:
+          artifact-name: pages
+          path: ./docs
 
   deploy:
     environment:

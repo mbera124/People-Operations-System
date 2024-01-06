@@ -21,3 +21,5 @@ yarn-error.log*
 /nbproject*
 /.vscode/
 src/generatedGitInfo.json
+/docs
+pages.tar.gz
