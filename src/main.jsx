@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App";
-import "../css/index.css";
+import "../css/style.css";
 import "antd/dist/reset.css";
 import "bootstrap/dist/css/bootstrap.css";
 import { store } from "./redux/store";
